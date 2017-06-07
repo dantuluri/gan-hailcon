@@ -1,6 +1,6 @@
 # Generative Adversarial Networks
 Surya Dantuluri's Speech on Generative Adversarial Networks and It's Implementations Notes and Supplementary Material
-## I spent around 20 hours (I was given 24 hours notice on my speaking position) during the weekend before finals, and I haven't changed a lot of the work I presented(I started from nearly no knowledge on machine learning). If you'd like to make any suggestions, you can do that here: http://bit.ly/hailcongancomment
+### I spent around 20 hours (I was given 24 hours notice on my speaking position) during the weekend before finals, and I haven't changed a lot of the work I presented(I started from nearly no knowledge on machine learning). If you'd like to make any suggestions, you can do that here: http://bit.ly/hailcongancomment#
 ![Basic idea of a GAN](/gany.png)
 
 Here are some unformatted notes and citations(which I will format in the upcoming days)
