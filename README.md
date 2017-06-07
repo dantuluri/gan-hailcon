@@ -1,6 +1,6 @@
 # Generative Adversarial Networks
 Surya Dantuluri's Speech on Generative Adversarial Networks and It's Implementations Notes and Supplementary Material
-![Basic idea of a GAN](dantuluri.github.io/gan.png)
+![Basic idea of a GAN](/gan.png)
 
 Here are some unformatted notes and citations(which I will format in the upcoming days)
 ------
